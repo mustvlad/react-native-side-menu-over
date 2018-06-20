@@ -3,6 +3,9 @@
   <img src ="http://oi61.tinypic.com/2n9l2dz.jpg" />
 </p>
 
+This is a fork of [react-native-side-menu](https://https://github.com/react-native-community/react-native-side-menu)
+I made only a few changes so the menu is over the view rather than besides which is the case of the original repo.
+
 ### Content
 - [Installation](#installation)
 - [Usage example](#usage-example)
@@ -11,12 +14,12 @@
 
 ### Installation
 ```bash
-npm install react-native-side-menu --save
+npm install react-native-side-menu-over --save
 ```
 
 ### Usage example
 ```javascript
-const SideMenu = require('react-native-side-menu');
+const SideMenu = require('react-native-side-menu-over');
 
 class ContentView extends React.Component {
   render() {
