@@ -1,9 +1,6 @@
 ## Customizable side menu for react-native
-<p align="center">
-  <img src ="http://oi61.tinypic.com/2n9l2dz.jpg" />
-</p>
 
-This is a fork of [react-native-side-menu](https://https://github.com/react-native-community/react-native-side-menu)
+This is a fork of [react-native-side-menu](https://github.com/react-native-community/react-native-side-menu)
 I made only a few changes so the menu is over the view rather than besides which is the case of the original repo.
 
 ### Content
